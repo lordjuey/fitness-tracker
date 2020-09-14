@@ -1,2 +1,0 @@
-# fitness-tracker
-fullstack assignment
