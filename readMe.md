@@ -19,7 +19,10 @@
   
   ## Project Description
   using a mongoDB, user creats a dynamic fitness tracker app that records workout history and the details
-
+  
+  ## Deploy URL 
+  deployed at Heroku, click https://lordjueyfitnesstracker.herokuapp.com/?id=5f72052a8cfd280017948023 to go to the deployed webpage
+  
   ## License
   MIT
 
